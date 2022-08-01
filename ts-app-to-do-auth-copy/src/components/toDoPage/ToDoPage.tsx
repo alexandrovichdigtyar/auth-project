@@ -32,7 +32,7 @@ function ToDoPage() {
     )
       : (
         <Typography textAlign="center" marginTop="100px">
-          Sign in or login to use to do list...
+          Sign in or register to use to do list...
         </Typography>
       )
   );
